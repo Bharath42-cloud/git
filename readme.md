@@ -1,5 +1,10 @@
-#Git Course
+# Git Course
 This is a complete git course
 
-# This is change from feature branch
-# This is feature 2.0
+# This is from Bug branch
+
+<!-- objective - new-bug changes has to be merged with main branch
+conflicts iruku
+main ->new-bug 
+resolve conflicts 
+new-bug ->main -->
